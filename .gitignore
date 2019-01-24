@@ -1,7 +1,10 @@
 checkpoints/
 data/
 graphs/
-util.pyc
-utils.pyc
 .vscode/
-word2vec_utils.pyc
+# ignore all pyc
+*.pyc
+# ignore all log files
+*.log
+
+
