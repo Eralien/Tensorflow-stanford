@@ -1,3 +1,7 @@
 checkpoints/
 data/
 graphs/
+util.pyc
+utils.pyc
+.vscode/
+word2vec_utils.pyc
